@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 .mlflow/
 mlruns/
+*.db
 .DS_Store
